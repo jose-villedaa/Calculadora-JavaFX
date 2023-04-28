@@ -1,0 +1,98 @@
+/**
+ * @author Jose Mauricio Villeda Morales
+ * @date 21/03/2022 
+ * Codigo Tecnico : IN5BM 
+ * Carne : 2021075 
+ * Grupo : 2 (Lunes)
+ */
+
+.mainFxmlClass {
+
+}
+
+/* AC */
+#boton-ac{
+    -fx-background-color:#F0F3F4;
+    -fx-text-fill:#C0392B ;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
+#boton-ac:hover{
+    -fx-background-color:#C0392B ;
+    -fx-text-fill:#F0F3F4;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
+#boton-ac:pressed{
+    -fx-background-color:#C0392B ;
+    -fx-text-fill:white;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
+/* botones Simbolos*/
+.botones-simbolos:hover{
+    -fx-background-color:#FFFFFF;
+    -fx-text-fill:black  ;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+.botones-simbolos{
+    -fx-background-color:#F0F3F4;
+    -fx-text-fill:black;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+.botones-simbolos:pressed{
+    -fx-background-color:#F0F3F4;
+    -fx-text-fill:#515A5A;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
+/* botoners numericos */
+.botones-numericos:hover{
+    -fx-background-color:#FFFFFF;
+    -fx-text-fill:black  ;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+.botones-numericos{
+    -fx-background-color:#F0F3F4;
+    -fx-text-fill:black;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+.botones-numericos:pressed{
+    -fx-background-color:#F0F3F4;
+    -fx-text-fill:#515A5A;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+/* Igual = */
+
+#boton-igual:pressed{
+    -fx-background-color:#27AE60;
+    -fx-text-fill:white;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
+
+#boton-igual{
+    -fx-background-color:#F0F3F4;
+    -fx-text-fill:#27AE60;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
+
+#boton-igual:hover{
+    -fx-background-color:#27AE60;
+    -fx-text-fill:#F0F3F4;
+    -fx-front-size:23px;
+    -fx-background-radius:10 10 10 10;
+}
+
